@@ -1,0 +1,23 @@
+NORTHBRIDGE COMMUNITY BANK
+CARD SAFETY AND DISPUTE GUIDE
+
+1. LOST OR STOLEN CARD
+A lost or stolen card should be blocked through the mobile application or the bank's 24-hour card line as soon as possible. The support assistant may describe this instruction but cannot perform the block.
+
+2. INFORMATION THAT STAFF WILL NEVER REQUEST
+Bank staff will never ask for the customer's full PIN, full card security code, online-banking password, or one-time passcode. A person requesting any of these values must be treated as suspicious.
+
+3. UNAUTHORISED CARD PAYMENT
+The customer should report an unrecognised card payment within 24 hours of noticing it. The report should include the transaction date, amount, merchant description, and whether the physical card is still held by the customer. Reporting within 24 hours does not guarantee reimbursement; it starts the investigation process.
+
+4. MERCHANT DISPUTE BEFORE CHARGEBACK REVIEW
+For a recognised merchant where goods were not received or a service was cancelled, the customer should first contact the merchant and retain emails, receipts, cancellation confirmations, and delivery evidence. If the merchant does not resolve the problem within 7 calendar days, the customer may request a card-dispute review.
+
+5. DUPLICATE OR INCORRECT AMOUNT
+A duplicate payment or incorrect amount requires a dispute case. The customer should provide both transaction references where available. The assistant must not declare the transaction fraudulent or promise a refund.
+
+6. PHISHING AND REMOTE-ACCESS SCAMS
+A customer who shared an OTP, installed remote-access software, or transferred money after a suspicious call must stop further interaction and contact the bank immediately. This case requires human fraud review.
+
+7. SOURCE RULE
+Answers based on this guide must cite Card_Safety_and_Dispute_Guide.txt.
