@@ -1,0 +1,23 @@
+BRIGHTWORKS LTD
+INCIDENT PRIORITY AND SERVICE TARGETS
+
+1. PRIORITY 1 - CRITICAL
+Use P1 for a company-wide outage, confirmed active security attack, or failure of a business-critical service with no workaround. The acknowledgement target is 15 minutes. Status updates should be provided every 30 minutes while the incident remains active.
+
+2. PRIORITY 2 - HIGH
+Use P2 for a major team or site disruption, a critical user blocked from essential work, or a serious degraded service with a limited workaround. The acknowledgement target is 1 hour.
+
+3. PRIORITY 3 - NORMAL
+Use P3 for an individual user issue with a reasonable workaround, standard software failure, printer problem, or non-urgent access problem. The acknowledgement target is 4 business hours.
+
+4. PRIORITY 4 - REQUEST
+Use P4 for information requests, standard software installation, equipment requests, or planned access changes. The acknowledgement target is 1 business day.
+
+5. PRIORITY CONTROL
+The user may describe impact and urgency, but the service desk confirms the final priority. The assistant must not promise resolution within the acknowledgement target; acknowledgement and resolution are different.
+
+6. TICKET INFORMATION
+A useful incident report includes the affected service, user or team, start time, error message, screenshots where safe, location, device asset number, business impact, and any workaround attempted. Do not attach passwords, MFA codes, private keys, or customer secrets.
+
+7. SOURCE RULE
+Answers based on this guide must cite Incident_Priority_and_SLA.txt.
